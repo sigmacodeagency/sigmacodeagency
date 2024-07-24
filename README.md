@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Marouan from S I G M A Code<br><br>- 🌱 I’m currently learning : CyberSecurity, Back-End Development, Mobile App, Architecture<br><br>- 💬 Ask me about : Our Services<br><br>- 😎 What are our services? :<br>* Creation Websites,<br>* Graphic Desgin,<br>* Digital Marketing,<br>* Video Editing,<br>* Architecture...<br><br>- 📫 How to reach me : https://bit.ly/SigmaCode</p>
+<p align="left">I'm Marouan from S I G M A Code<br><br>- 🌱 I’m currently learning : **CyberSecurity**<br><br>- 💬 Ask me about : Our Services<br><br>- 😎 What are our services? :<br>* Creation Websites,<br>* Graphic Desgin,<br>* Digital Marketing,<br>* Video Editing,<br>* Architecture...<br><br>- 📫 How to reach me : https://bit.ly/SigmaCode</p>
 
 ###
 
